@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-FaceAuthXIB_POC/Pods-FaceAuthXIB_POC-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/FaceCoreSDK/Liveness.framework/Liveness
+${PODS_XCFRAMEWORKS_BUILD_DIR}/FaceSDK/FaceSDK.framework/FaceSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/RegulaCommon/RegulaCommon.framework/RegulaCommon
